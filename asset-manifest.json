@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.621b825a.chunk.js": "https://hotswap.link/static/js/0.621b825a.chunk.js",
+    "main.css": "https://hotswap.link/static/css/main.2959e852.chunk.css",
+    "main.js": "https://hotswap.link/static/js/main.28e0912c.chunk.js",
+    "runtime-main.js": "https://hotswap.link/static/js/runtime-main.c1c20bfa.js",
+    "static/js/3.8f620a35.chunk.js": "https://hotswap.link/static/js/3.8f620a35.chunk.js",
+    "static/js/4.ac6339cf.chunk.js": "https://hotswap.link/static/js/4.ac6339cf.chunk.js",
+    "static/js/5.d298ae82.chunk.js": "https://hotswap.link/static/js/5.d298ae82.chunk.js",
+    "static/js/6.eb5e1100.chunk.js": "https://hotswap.link/static/js/6.eb5e1100.chunk.js",
+    "static/js/7.a45a0a15.chunk.js": "https://hotswap.link/static/js/7.a45a0a15.chunk.js",
+    "static/js/8.15a67b0e.chunk.js": "https://hotswap.link/static/js/8.15a67b0e.chunk.js",
+    "static/js/9.a59911fd.chunk.js": "https://hotswap.link/static/js/9.a59911fd.chunk.js",
+    "static/js/10.f9d469e8.chunk.js": "https://hotswap.link/static/js/10.f9d469e8.chunk.js",
+    "index.html": "https://hotswap.link/index.html",
+    "precache-manifest.7ab557245e43dd6e7184ac52cc5697bf.js": "https://hotswap.link/precache-manifest.7ab557245e43dd6e7184ac52cc5697bf.js",
+    "service-worker.js": "https://hotswap.link/service-worker.js",
+    "static/js/3.8f620a35.chunk.js.LICENSE.txt": "https://hotswap.link/static/js/3.8f620a35.chunk.js.LICENSE.txt",
+    "static/js/5.d298ae82.chunk.js.LICENSE.txt": "https://hotswap.link/static/js/5.d298ae82.chunk.js.LICENSE.txt",
+    "static/js/6.eb5e1100.chunk.js.LICENSE.txt": "https://hotswap.link/static/js/6.eb5e1100.chunk.js.LICENSE.txt",
+    "static/js/7.a45a0a15.chunk.js.LICENSE.txt": "https://hotswap.link/static/js/7.a45a0a15.chunk.js.LICENSE.txt",
+    "static/js/8.15a67b0e.chunk.js.LICENSE.txt": "https://hotswap.link/static/js/8.15a67b0e.chunk.js.LICENSE.txt",
+    "static/media/hotdog-van.svg": "https://hotswap.link/static/media/hotdog-van.562acd6f.svg",
+    "static/media/hots-supply.svg": "https://hotswap.link/static/media/hots-supply.42ec72d0.svg",
+    "static/media/hots.svg": "https://hotswap.link/static/media/hots.915f7a38.svg",
+    "static/media/logo.svg": "https://hotswap.link/static/media/logo.c1ee0222.svg",
+    "static/media/metamask-fox.svg": "https://hotswap.link/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/wallet-connect.svg": "https://hotswap.link/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1c20bfa.js",
+    "static/js/3.8f620a35.chunk.js",
+    "static/css/main.2959e852.chunk.css",
+    "static/js/main.28e0912c.chunk.js"
+  ]
+}
